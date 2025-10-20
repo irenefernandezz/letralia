@@ -22,3 +22,11 @@ El objetivo es formar palabras usando las consonantes y vocales que se proporcio
 - Sistema de puntos que se guarda y se carga automáticamente.  
 - Interfaz gráfica intuitiva
 
+---
+
+🔹Componentes del .zip
+
+- Archivo .exe, ejecutable sin necesidad de tener Java instalado
+- Archivo .jar, ejecutable con el comando 'java -jar letralia.jar'
+- Código fuente Java
+
